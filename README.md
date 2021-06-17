@@ -1,10 +1,10 @@
-#Required Dependencies
+# Required Dependencies
 
 Initialize npm 
-# npm init
+npm init
 
 downlaod express
-# npm install express --save
+npm install express --save
 
 download bodyparser
-# npm install body-parser
+npm install body-parser
