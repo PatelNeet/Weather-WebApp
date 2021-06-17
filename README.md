@@ -1,4 +1,6 @@
-first we create 
+#Required Dependencies
+
+Initialize npm 
 # npm init
 
 downlaod express
