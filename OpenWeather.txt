@@ -1,0 +1,11 @@
+OpenWeather Link = api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+key = e2c9c811ced8aee3e193f1f1a10f1969
+city name = Ahmedabad, London , Surat 
+
+img link = https://home.openweathermap.org/assets/history_banner-6fb0d5dc29d608ac8bc0717480e210a40260e475f6fb86880ef4687d496eb376.png
+
+
+img icon link = http://openweathermap.org/img/wn/10d@2x.png
+10d,50d change as comes.....
+
